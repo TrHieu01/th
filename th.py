@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import numpy as np
 import streamlit as st
 import yfinance as yf
 import vnstock as vs
