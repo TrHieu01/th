@@ -1,0 +1,8 @@
+streamlit
+yfinance
+vnstock
+pandas
+pandas-ta
+prophet
+plotly
+requests
